@@ -8,8 +8,11 @@
 
 ## Audio
 
-* APP, BGM and VOX Return channels
-* Ducking of APP and BGM when MIC is active
+* Inputs: MIC
+* Outputs: APP, BGM, VOX
+
+Audio ducking of APP and BGM when MIC is active.  
+MIC and VOX have compression (4:1)
 
 ![image](https://user-images.githubusercontent.com/1159091/140032270-883f508d-1763-4a6e-8716-c7728f1bd400.png)
 

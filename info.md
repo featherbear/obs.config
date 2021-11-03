@@ -1,3 +1,7 @@
+# 20x9 Configuration
+
+> 2400 x 1080px @ 30fps
+
 ## Scenes
 
 ![image](https://user-images.githubusercontent.com/1159091/140032040-fbf91e7d-fc52-424c-a85d-5dd4374e9ef6.png)
@@ -29,6 +33,7 @@ MIC and VOX have compression (4:1)
   * Manually configure script to target scene
 * Advanced Scene Switcher
 * obs-ndi
+  * Set main OBS Output NDI name to `OBS Output 20x9`
 * infowriter
 
 ---
